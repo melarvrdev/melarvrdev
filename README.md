@@ -11,6 +11,6 @@ Senior Unity, Unreal, C# Developer<br>
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=melarvrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=melarvrdev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melarvrdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=melarvrdev&theme=white&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=melarvrdev&theme=white&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=melarvrdev&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
